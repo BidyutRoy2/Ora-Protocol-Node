@@ -48,3 +48,10 @@ docker logs ora-tora -f -n 100
 - You can also check via [Sepolia Explorer](https://sepolia.etherscan.io), If you see your wallet address is interacting with this contract `0x0A0f4321214BB6C7811dD8a71cF587bdaF03f0A0` , it means it is good
 
 ![image](https://github.com/user-attachments/assets/c256b783-8786-4123-8931-a85051e646db)
+
+
+# ▄︻デ𝙂𝙚𝙩 𝙇𝙖𝙩𝙚𝙨𝙩 𝘼𝙞𝙧𝙙𝙧𝙤𝙥𝙨 & 𝙐𝙥𝙙𝙖𝙩𝙚𝙨═━一
+
+### ▄︻デ𝙅𝙤𝙞𝙣 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢═━一 [🎀  𝐻𝒾𝒹𝒹𝑒𝓃 𝒢𝑒𝓂  🎀](https://t.me/hiddengemnews) 
+
+### ░▒▓█►─═  𝓗𝓲𝒹ᗪ𝓔η Ǥέ𝕄 ═─◄█▓▒░
